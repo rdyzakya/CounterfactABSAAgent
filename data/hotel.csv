@@ -1,0 +1,131 @@
+index,original_sentence,original_triplet,counterfact1,counterfact_triplet1,counterfact1_modified,counterfact_triplet1_modified,counterfact2,counterfact_triplet2,counterfact2_modified,counterfact_triplet2_modified,counterfact3,counterfact_triplet3,counterfact3_modified,counterfact_triplet3_modified,checked1?,checked2?,checked3?
+20,"the wifi is bad . i already reported it , but it hasn't been fixed .","[('wifi', 'bad', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+30,the water pressure is low .,"[('water pressure', 'low', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+46,the room is comfortable with blue shades .,"[('room', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+47,very enjoyable .,"[('null', 'very enjoyable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+54,very bad . i already ordered and paid but it was unilaterally canceled by airy . i won't use airy again .,"[('null', 'very bad', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+60,the service is good .,"[('service', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+72,there are no airy facilities .,"[('airy facilities', 'no', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+75,the bathroom water is salty .,"[('bathroom water', 'salty', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+89,the service is good .,"[('service', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+90,the room is okay .,"[('room', 'okay', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+96,it was a very memorable experience .,"[('experience', 'very memorable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+97,"the place is comfortable , always happy staying here .","[('place', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+117,definitely recommended .,"[('null', 'recommended', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+123,there were no snacks even though i stayed for 4 consecutive days .,"[('snacks', 'no', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+130,quite comfortable .,"[('null', 'quite comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+146,"indeed , there is no breakfast .","[('breakfast', 'no', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+157,the service is fast .,"[('service', 'fast', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+166,there is no soap in the room .,"[('soap', 'no', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+167,there are no snacks .,"[('snacks', 'no', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+178,the wifi is not satisfactory : ) .,"[('wifi', 'not satisfactory', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+183,it's hard to turn on the ac .,"[('ac', 'hard to turn on', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+198,the room is cramped .,"[('room', 'cramped', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+199,"i've stayed here 3 times , always a loyal customer . the place is comfortable .","[('place', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+201,the service is lacking .,"[('service', 'lacking', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+220,the service is okay .,"[('service', 'okay', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+223,a very comfortable place to rest .,"[('place', 'very comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+225,the room is just right for newlyweds and couples with 1 child .,"[('room', 'just right', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+229,"on the 1st floor , the room we occupied was quite large .","[('room', 'quite large', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+230,the hot shower isn't working .,"[('hot shower', ""isn't working"", 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+231,the place is nice .,"[('place', 'nice', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+233,friendly service .,"[('service', 'friendly', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+235,"the location is strategic , near blitar station and the town square .","[('location', 'strategic', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+245,the room was dirty .,"[('room', 'dirty', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+252,"the tv uses an indoor antenna in the room , so the picture is unclear . there was only one bottle of water provided for two days , and the divider between rooms is made of triplex .","[('tv', 'unclear', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+258,"the ac wasn't cold , far from expectations and airy standards .","[('ac', ""wasn't cold"", 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+261,the room is good for a standard budget .,"[('room', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+282,the bedsheets were not clean enough .,"[('bedsheets', 'not clean enough', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+284,there were no towels .,"[('towels', 'no', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+287,"the bed in the room we used was very comfortable , although the cleaning staff had to re-clean the room we were going to use because something was left behind .","[('bed', 'very comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+292,"the room is not soundproof . so , even normal conversation from the next room can be heard . i stayed for 2 nights .","[('room', 'not soundproof', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+306,good service .,"[('service', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+318,"the service is very good , really suitable for travelers who want to stay in the ciputat area .","[('service', 'very good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+322,very good .,"[('null', 'very good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+348,the place is very nice .,"[('place', 'very nice', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+351,"comfortable , like being at a relative's house .","[('null', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+362,friendly staff .,"[('staff', 'friendly', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+372,the water isn't working .,"[('water', ""isn't working"", 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+381,"stayed here for three nights . the area is strategic , not too far from the airport and the ampera bridge .","[('area', 'strategic', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+394,the wifi is bad .,"[('wifi', 'bad', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+419,"the hotel is in a shop-house , so parking is inadequate .","[('parking', 'inadequate', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+457,excellent service .,"[('service', 'excellent', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+463,the room is quite comfortable .,"[('room', 'quite comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+468,the service was not friendly .,"[('service', 'not friendly', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+477,the room wasn't clean enough .,"[('room', ""wasn't clean enough"", 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+485,the room is clean .,"[('room', 'clean', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+499,good service .,"[('service', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+513,the room is not soundproof .,"[('room', 'not soundproof', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+523,very satisfied .,"[('null', 'very satisfied', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+524,very good .,"[('null', 'very good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+528,the breakfast menu was not very tasty .,"[('breakfast menu', 'not very tasty', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+536,the ac is not cold enough .,"[('ac', 'not cold enough', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+541,good for business trips .,"[('null', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+542,the bathroom is too cramped .,"[('bathroom', 'too cramped', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+548,the parking area is spacious .,"[('parking area', 'spacious', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+550,the spring bed is hard .,"[('spring bed', 'hard', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+560,comfortable staying with family .,"[('null', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+564,the bathtub is leaking . please fix it .,"[('bathtub', 'leaking', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+571,okay for a budget hotel .,"[('null', 'okay', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+583,very satisfying . vacation with family and parents . the children are very happy because they can play in the swimming pool .,"[('null', 'very satisfying', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+597,the place is comfortable .,"[('place', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+601,awesome . airy rooms are indeed crazy good .,"[('null', 'awesome', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+613,the bathroom is dirty .,"[('bathroom', 'dirty', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+614,the atmosphere is comfortable and access to everywhere is near .,"[('atmosphere', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+622,please pay attention to the cleanliness of the room .,"[('cleanliness of the room', 'please pay attention', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+623,the facilities need to be improved .,"[('facilities', 'need to be improved', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+624,the breakfast menu is delicious .,"[('breakfast menu', 'delicious', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+634,friendly and near pvj .,"[('null', 'friendly', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+639,the ac isn't cold enough .,"[('ac', ""isn't cold enough"", 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+641,quite satisfying .,"[('null', 'quite satisfying', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+644,the breakfast was delicious .,"[('breakfast', 'delicious', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+648,it's a bit dirty in the room on the 2nd floor .,"[('room', 'a bit dirty', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+654,the ac in room number 10 is not cold .,"[('ac', 'not cold', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+656,"the room condition is already good , but it would be even better if it were improved with a bathroom freshener .","[('room', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+666,the hot water is not working .,"[('hot water', 'not working', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+668,quite satisfactory for the price .,"[('null', 'quite satisfactory', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+670,the breakfast menu is varied .,"[('breakfast menu', 'varied', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+673,cleanliness needs to be improved .,"[('cleanliness', 'needs to be improved', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+674,the old building is a bit scary .,"[('building', 'a bit scary', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+681,the hot water is unstable .,"[('hot water', 'unstable', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+687,the service is very good .,"[('service', 'very good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+688,"when i stayed here , i got a very large room .","[('room', 'very large', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+691,comfortable and close to the shopping center and tourist attractions .,"[('null', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+713,the place is in the city center and very quiet .,"[('place', 'very quiet', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+721,there is no tissue .,"[('tissue', 'no', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+724,"even though it was only a short stay there , it was comfortable .","[('null', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+730,the breakfast was not tasty .,"[('breakfast', 'not tasty', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+736,the wifi wasn't working .,"[('wifi', ""wasn't working"", 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+738,"the place is comfortable ; god willing , if i go to cirebon , i will stop by again .","[('place', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+744,the ac is hot .,"[('ac', 'hot', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+749,"it's quite good , actually , and it's close to kuta if you want to walk .","[('null', 'quite good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+774,the price is okay .,"[('price', 'okay', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+776,"overall it's good , but if possible , the space under the bed should also be cleaned because there was a used baby diaper .","[('overall', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+796,the internet is slow .,"[('internet', 'slow', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+804,"it's quiet , but it's better to find another hotel .","[('null', 'quiet', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+807,the lighting in the toilet is not good .,"[('lighting', 'not good', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+818,"there are free snacks . thank you , airyrooms .","[('free snacks', 'there are', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+821,"everything is clean , basically everything .","[('everything', 'clean', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+823,"the facilities are good . thank you , airy .","[('facilities', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+827,the comfort is lacking . the sound of people next door can be heard clearly .,"[('comfort', 'lacking', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+829,the hotel's location is strategic .,"[(""hotel's location"", 'strategic', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+845,good . it's just tiring to climb the stairs .,"[('null', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+849,"the room is cool . full facilities , i'm going there next week .","[('room', 'cool', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+855,"the bathroom is dirty , and the hotel often holds strange events .","[('bathroom', 'dirty', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+859,quite satisfactory and representative for transit .,"[('null', 'quite satisfactory', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+860,"the hotel is comfortable , feels like a 3-star hotel .","[('hotel', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+865,"overall , i really enjoyed staying here , especially since i got a pretty good discount from airy .","[('overall', 'really enjoyed', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+877,"the receptionist was very unfriendly . check-in time was supposed to be at 2 pm , but they said we could only check in at 3 pm .","[('receptionist', 'very unfriendly', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+880,all airy facilities are not provided or available in the room .,"[('facilities', 'not provided', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+894,the place is beautiful . there is a nice mosque in front of it .,"[('place', 'beautiful', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+904,"the view from the 2nd floor is lacking . perhaps in the future , airy rooms could have all rooms on the upper floors .","[('view', 'lacking', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+920,the service is slow .,"[('service', 'slow', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+926,excellent service .,"[('service', 'excellent', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+935,the wifi is not fast enough .,"[('wifi', 'not fast enough', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+940,the bathroom faucet is rusty .,"[('bathroom faucet', 'rusty', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+947,comfortable for resting .,"[('null', 'comfortable', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+963,a bit scary .,"[('null', 'a bit scary', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+982,"i have stayed here several times . so far , i am very satisfied .","[('null', 'very satisfied', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+984,the tv channel alone needs improvement .,"[('tv channel', 'needs improvement', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+990,the service is not responsive .,"[('service', 'not responsive', 'negative')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
+992,good service .,"[('service', 'good', 'positive')]",,,,,,,,,,,,,FALSE,FALSE,FALSE
