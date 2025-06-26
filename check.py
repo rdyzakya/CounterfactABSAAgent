@@ -24,15 +24,13 @@ for fname in os.listdir("output"):
         counterfact_triplet3 = row["counterfact_triplet3"]
 
         if isinstance(original_triplet, str):
-            original_triplet = eval(original_triplet)
+            original_triplet = eval(original_triplet)[0]
         if isinstance(counterfact_triplet1, str):
-            counterfact_triplet1 = eval(counterfact_triplet1)
+            counterfact_triplet1 = eval(counterfact_triplet1)[0]
         if isinstance(counterfact_triplet2, str):
-            counterfact_triplet2 = eval(counterfact_triplet2)
+            counterfact_triplet2 = eval(counterfact_triplet2)[0]
         if isinstance(counterfact_triplet3, str):
-            counterfact_triplet3 = eval(counterfact_triplet3)
-
-        original_triplet = original_triplet[0]
+            counterfact_triplet3 = eval(counterfact_triplet3)[0]
 
         if original_triplet[0] == "null":
             continue
@@ -43,10 +41,6 @@ for fname in os.listdir("output"):
                                       original_triplet, counterfact_triplet2)
         report3 = check_num_tokens_fn(original_sentence, counterfact3,
                                       original_triplet, counterfact_triplet3)
-        
-        report1 = eval(report1)
-        report2 = eval(report2)
-        report3 = eval(report3)
         
         if not (report1["is_equal"] and report2["is_equal"] and report3["is_equal"]):
             print(f"Not equal index {i}")

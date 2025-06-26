@@ -1,0 +1,20 @@
+index,original_sentence,original_triplet,counterfact1,counterfact_triplet1,counterfact1_modified,counterfact_triplet1_modified,counterfact2,counterfact_triplet2,counterfact2_modified,counterfact_triplet2_modified,counterfact3,counterfact_triplet3,counterfact3_modified,counterfact_triplet3_modified,checked1?,checked2?,checked3?
+96,it was a very memorable experience .,"[('experience', 'very memorable', 'positive')]",,,,,,,,,,,,,False,False,False
+199,"i've stayed here 3 times , always a loyal customer . the place is comfortable .","[('place', 'comfortable', 'positive')]",,,,,,,,,,,,,False,False,False
+419,"the hotel is in a shop-house , so parking is inadequate .","[('parking', 'inadequate', 'negative')]",,,,,,,,,,,,,False,False,False
+463,the room is quite comfortable .,"[('room', 'quite comfortable', 'positive')]",,,,,,,,,,,,,False,False,False
+485,the room is clean .,"[('room', 'clean', 'positive')]",,,,,,,,,,,,,False,False,False
+513,the room is not soundproof .,"[('room', 'not soundproof', 'negative')]",,,,,,,,,,,,,False,False,False
+536,the ac is not cold enough .,"[('ac', 'not cold enough', 'negative')]",,,,,,,,,,,,,False,False,False
+548,the parking area is spacious .,"[('parking area', 'spacious', 'positive')]",,,,,,,,,,,,,False,False,False
+622,please pay attention to the cleanliness of the room .,"[('cleanliness of the room', 'please pay attention', 'negative')]",,,,,,,,,,,,,False,False,False
+639,the ac isn't cold enough .,"[('ac', ""isn't cold enough"", 'negative')]",,,,,,,,,,,,,False,False,False
+654,the ac in room number 10 is not cold .,"[('ac', 'not cold', 'negative')]",,,,,,,,,,,,,False,False,False
+656,"the room condition is already good , but it would be even better if it were improved with a bathroom freshener .","[('room', 'good', 'positive')]",,,,,,,,,,,,,False,False,False
+673,cleanliness needs to be improved .,"[('cleanliness', 'needs to be improved', 'negative')]",,,,,,,,,,,,,False,False,False
+736,the wifi wasn't working .,"[('wifi', ""wasn't working"", 'negative')]",,,,,,,,,,,,,False,False,False
+738,"the place is comfortable ; god willing , if i go to cirebon , i will stop by again .","[('place', 'comfortable', 'positive')]",,,,,,,,,,,,,False,False,False
+823,"the facilities are good . thank you , airy .","[('facilities', 'good', 'positive')]",,,,,,,,,,,,,False,False,False
+827,the comfort is lacking . the sound of people next door can be heard clearly .,"[('comfort', 'lacking', 'negative')]",,,,,,,,,,,,,False,False,False
+860,"the hotel is comfortable , feels like a 3-star hotel .","[('hotel', 'comfortable', 'positive')]",,,,,,,,,,,,,False,False,False
+877,"the receptionist was very unfriendly . check-in time was supposed to be at 2 pm , but they said we could only check in at 3 pm .","[('receptionist', 'very unfriendly', 'negative')]",,,,,,,,,,,,,False,False,False
